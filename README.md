@@ -14,10 +14,12 @@ Here are some ideas to get you started:
 -->
 # 👋 Hey there, I'm ✨Safa Khaloui✨!  
 
-🎓 **PhD Student | Researcher in Federated Learning & Blockchain | AI Enthusiast**  
+🎓 **PhD Student | Researcher in Federated Learning & Blockchain | AI Enthusiast**
 
-🔬 I'm currently pursuing my **PhD** at **Faculty of Sciences of Tunis - FST Manar** 🎓.  
-My research focuses on **optimizing Blockchain-Based Federated Learning** for **Food Fraud Detection**. I'm passionate about using AI, **decentralization**, and **privacy-preserving machine learning** to build **secure and transparent** systems.  
+[![GitHub followers](https://img.shields.io/github/followers/khsafa?style=social)](https://github.com/khsafa?tab=followers)  
+
+🔬 I'm currently pursuing my **PhD** at [Faculty of Sciences of Tunis - FST Manar](https://www.fst.rnu.tn/) 🎓.  
+🔥 I'm passionate about using AI, **decentralization**, and **privacy-preserving machine learning** to build **secure and transparent** systems.  
 
 ## 🚀 What I Do  
 🔹 **Federated Learning**: Privacy-preserving AI models across multiple clients.  
