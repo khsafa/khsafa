@@ -1,4 +1,4 @@
-_# 👋 Hey there, I'm ✨Safa Khaloui✨!  
+👋 Hey there, I'm ✨Safa Khaloui✨!  
 
 🎓 **PhD Student | Researcher in Machine Learning & Blockchain | AI Enthusiast**
 
